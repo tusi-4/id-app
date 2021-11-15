@@ -1,0 +1,1 @@
+This script allows you to generate random alphanumerical ID of chosen length.
